@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PnaEXlPTcjcWk1EpGW7HA6VUtM9nKuSo8Hu7IYOHkWyAqbo5_FWIPDK_kW6tnkNMmw&usqp=CAU"></img>
+<img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png"></img>
 <h1 align="center"><b>Hello, I'm Sakshi Nirne!</b><img alt="coding" width="50" src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif"</h1>
   <h4 align="left">A passionate Software Engineer from India.</h4>
   <h4 align="left">I'm Currently Learning Web Development and DataScience. </h4>
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Nirne&show_icons=true&locale=en" alt="Sakshi-Nirne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Nirne&" alt="Sakshi-Nirne" /></p>
+![](https://github-profile-trophy.vercel.app/?username=Sakshi-Nirne&theme=discord&no-frame=false&no-bg=true&margin-w=4)
