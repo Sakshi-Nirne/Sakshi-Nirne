@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Nirne&show_icons=true&locale=en" alt="Sakshi-Nirne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Nirne&" alt="Sakshi-Nirne" /></p>
-![](https://github-profile-trophy.vercel.app/?username=Sakshi-Nirne&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
