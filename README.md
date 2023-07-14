@@ -1,4 +1,4 @@
-<img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png"></img>
+<img src="https://media.licdn.com/dms/image/C5616AQE_yfShaQvLyw/profile-displaybackgroundimage-shrink_200_800/0/1595886471975?e=2147483647&v=beta&t=q9E88z8x_58dax0tE6Q0vzVI1g7Vyp1Pu9euRQprYew"></img>
 <h1 align="center"><b>Hello, I'm Sakshi Nirne!</b><img alt="coding" width="50" src="https://raw.githubusercontent.com/777ahesh/777ahesh/main/wave.gif"</h1>
   <h4 align="left">A passionate Software Engineer from India.</h4>
   <h4 align="left">I'm Currently Learning Web Development and DataScience. </h4>
