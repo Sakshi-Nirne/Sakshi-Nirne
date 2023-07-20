@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshi nirne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi nirne" height="30" width="40" /></a>
-<a href="https://instagram.com/_sakshi_s_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sakshi_s_n" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakshi-nirne-ba181723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi nirne" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sakshi_n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sakshi_s_n" height="30" width="40" /></a>
 
 </p>
 
